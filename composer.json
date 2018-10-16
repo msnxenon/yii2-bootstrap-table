@@ -1,5 +1,5 @@
 {
-  "name": "itexia/yii2-bootstrap-table",
+  "name": "msnxenon/yii2-bootstrap-table",
   "description": "Using extending bootstrap table ",
   "keywords": [
     "bootstrap table",
@@ -27,7 +27,7 @@
     "demogorgorn/yii2-ajax-submit-button": "dev-master",
     "composer/installers": "dev-master",
     "kayalshri/tableExport.jquery.plugin": "dev-master",
-    "akottr/dragtable": "dev-master",
+    "akottr/dragtable": "master",
     "kartik-v/yii2-date-range": "^1.6.9",
     "lavrentiev/yii2-toastr": "^2.0",
     "wbraganca/yii2-multiselect": "~1.0.1"
